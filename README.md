@@ -1,16 +1,111 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Sahanareddy405/Sahanareddy405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Hey%2C%20I'm%20Sahana!%20👋&fontSize=50&fontAlignY=38&desc=Welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=58&animation=fadeIn" width="100%"/>
 
-Here are some ideas to get you started:
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Python+%26+DBMS+Enthusiast+%F0%9F%90%8D;Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- Social badges -->
+[![GitHub followers](https://img.shields.io/github/followers/Sahanareddy405?label=Follow&style=social)](https://github.com/Sahanareddy405)
+&nbsp;
+[![Profile views](https://komarev.com/ghpvc/?username=Sahanareddy405&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Sahanareddy405)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class Sahana:
+    name       = "Sahana Reddy"
+    username   = "Sahanareddy405"
+    passion    = ["Problem Solving", "Building Projects", "Learning New Tech"]
+    currently  = "CS Student leveling up every single day 📈"
+    fun_fact   = "I debug with coffee ☕ and determination 💪"
+
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something awesome together 🚀")
+
+me = Sahana()
+me.say_hi()
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages & Databases**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 💸 [Personal Expense Tracker](https://github.com/Sahanareddy405/Personal-Expense-Tracker) | Track, manage & visualize your spending habits | `PHP` `MySQL` `DBMS` |
+| 🐍 [Python Playground](https://github.com/Sahanareddy405/Python) | Python scripts, experiments & mini-projects | `Python` |
+| 📁 [Project](https://github.com/Sahanareddy405/project) | Work in progress — watch this space! | `Coming Soon` |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sahanareddy405&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahanareddy405&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahanareddy405&theme=tokyonight&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" width="70%"/>
+
+</div>
+
+---
+
+## 🌱 Currently
+
+- 📚 Deepening my **Python** skills
+- 🛢️ Exploring **Database Management Systems**
+- 🔨 Building projects that solve real problems
+- 🎯 Looking to collaborate on open source!
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Sahanareddy405-181717?style=for-the-badge&logo=github)](https://github.com/Sahanareddy405)
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer" width="100%"/>
+</div>
