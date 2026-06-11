@@ -1,19 +1,4 @@
-<div align="center">
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=200&section=header&text=Hey%2C%20I'm%20Sahana!%20👋&fontSize=50&fontAlignY=38&desc=Welcome%20to%20my%20corner%20of%20the%20internet&descAlignY=58&animation=fadeIn" width="100%"/>
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Python+%26+DBMS+Enthusiast+%F0%9F%90%8D;Building+cool+things+one+commit+at+a+time+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social badges -->
-[![GitHub followers](https://img.shields.io/github/followers/Sahanareddy405?label=Follow&style=social)](https://github.com/Sahanareddy405)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=Sahanareddy405&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/Sahanareddy405)
+Views)](https://github.com/Sahanareddy405)
 
 </div>
 
